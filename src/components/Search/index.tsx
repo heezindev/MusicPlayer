@@ -116,6 +116,8 @@ const SearchTemplateStyle = styled.div`
 
   & > .songWrapper {
     margin-top: 40px;
+    padding-bottom: 140px;
+
     width: 100%;
     background-color: #000;
 
